@@ -1,7 +1,7 @@
 # Floyd-Warshall 알고리즘
 ## 1. 문제
 ![문제](https://postfiles.pstatic.net/MjAyNTA1MDhfMyAg/MDAxNzQ2NzA0NTU2MjA1.CnO6nMWQyIhlCbnVFVg89VIYgLw20-yFfLwt8f4uQFog.zMLGhl7pd4D7_lj5PkGZoKb_7lP2ChwmyCrawY_EeUMg.PNG/image.png?type=w773)
-가중치 포함 그래프의 각 정점에서 다른 모든 정점까지의 최단 거리를 계산하라.
+<br>가중치 포함 그래프의 각 정점에서 다른 모든 정점까지의 최단 거리를 계산하라.
 - 입력: 가중치 포함, 방향성 그래프 W와 그 그래프에서의 정점의 수 n
 - 출력: 최단 거리의 길이가 포함된 배열 D
 
