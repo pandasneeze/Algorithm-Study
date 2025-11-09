@@ -8,4 +8,4 @@
 - BFS
 - DFS
 - Kruskal
-- Djikstra
+- Dijkstra
